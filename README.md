@@ -1,9 +1,12 @@
 # Task Manager (Laravel)
 
 Project Code: WST21-PM-2026-SF
+
 Student Name: Calvo Shinji lei
-Course & Year: BSIT, [your year level]
-Database Used: MySQL (or SQLite — update to match what you actually configured)
+
+Course & Year: BSIT-2 SEC-1
+
+Database Used: MySQL
 
 ## Features
 - Add Task
